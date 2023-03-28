@@ -15,6 +15,7 @@ namespace ObjectOrientedProblem
             DuplicateNumbers.CheckDuplicate();
             UniqueElements.CheckUniqueElement();
             FrequencyOfElements.FindFrequency();
+            FindMaxMinNumbers.FindMaximumMinimum();
 
         }
     }
