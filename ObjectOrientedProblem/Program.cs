@@ -21,17 +21,25 @@ namespace ObjectOrientedProblem
                     Console.WriteLine("Duplicate Number");
                     DuplicateNumbers.CheckDuplicate();
                     break;
+
                 case 2:
                     UniqueElements.CheckUniqueElement();
                     break;
+
                 case 3:
                     FrequencyOfElements.FindFrequency();
                     break;
+
                 case 4:
                     FindMaxMinNumbers.FindMaximumMinimum();
                     break;
+
                 case 5:
                     ReversePattern.CreateReverseRightStarPattern();
+                    break;
+
+                case 6:
+                    RectagularPattern.CreateRectanglaStarPattern();
                     break;
             }
         }
