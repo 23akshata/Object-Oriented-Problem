@@ -14,6 +14,7 @@ namespace ObjectOrientedProblem
             Console.WriteLine("Welcome to Object Oriented Practice Problems");
             DuplicateNumbers.CheckDuplicate();
             UniqueElements.CheckUniqueElement();
+            FrequencyOfElements.FindFrequency();
 
         }
     }
