@@ -50,6 +50,10 @@ namespace ObjectOrientedProblem
                     SumOfAllDigit.CalculateSum();
                     break;
 
+                case 9:
+                    SumOfMatrix.SumMatrix();
+                    break;
+
             }
         }
     }
