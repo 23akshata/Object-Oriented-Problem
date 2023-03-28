@@ -41,9 +41,15 @@ namespace ObjectOrientedProblem
                 case 6:
                     RectagularPattern.CreateRectanglaStarPattern();
                     break;
+
                 case 7:
                     ReverseString.ReverseWord();
                     break;
+
+                case 8:
+                    SumOfAllDigit.CalculateSum();
+                    break;
+
             }
         }
     }
